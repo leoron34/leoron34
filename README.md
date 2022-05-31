@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ronit
 - 👀 I’m interested in Full Stack developement projects. 
-- 🌱 I’m currently learning Operations Research and the supply chain domain
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working in the supply chain domain
+- 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me -> Email id: ronitmondal6991@gmail.com
 
 <!---
